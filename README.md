@@ -1,7 +1,7 @@
 # ShortSileo
 A jailbreak package mananager based off of a shortcut based jailbreak tool
 
-#DISCLAIMER ABOUT LEGAL ISSUES
+# DISCLAIMER ABOUT LEGAL ISSUES
 Please note that this is just a fun project and has no intent of copying sileo in any way all assets from Sileo in this project belong to the sileo team
 
 Thanks for understanding
