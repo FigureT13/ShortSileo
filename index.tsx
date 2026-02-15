@@ -71,8 +71,8 @@ const App: React.FC = () => {
         packages: [
           {
             id: 'pkg-1',
-            name: 'Cylinder Reborn',
-            url: 'https://github.com/ryannair05/Cylinder-Reborn',
+            name: 'MTerminal',
+            url: 'https://www.icloud.com/shortcuts/c56ef02317c44b34b2b352a73ab57772',
             size: '1.2 MB',
             minIOS: '14.0',
             maxIOS: '17.0',
@@ -82,8 +82,8 @@ const App: React.FC = () => {
           },
           {
             id: 'pkg-2',
-            name: 'SnowBoard',
-            url: 'https://sparkdev.me/',
+            name: 'iSkin',
+            url: 'https://www.icloud.com/shortcuts/c6bd63f449b14fab805a4f5197cd6026',
             size: '2.5 MB',
             minIOS: '7.0',
             maxIOS: '18.0',
